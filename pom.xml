@@ -12,13 +12,13 @@
     <dependency>
       <groupId>org.kie</groupId>
       <artifactId>kie-api</artifactId>
-      <version>7.67.2.Final-redhat-00003</version>
+      <version>7.67.0.Final-redhat-00017</version>
       <scope>provided</scope>
     </dependency>
     <dependency>
       <groupId>org.kie</groupId>
       <artifactId>kie-internal</artifactId>
-      <version>7.67.2.Final-redhat-00003</version>
+      <version>7.67.0.Final-redhat-00017</version>
       <scope>provided</scope>
     </dependency>
     <dependency>
@@ -39,7 +39,7 @@
       <plugin>
         <groupId>org.kie</groupId>
         <artifactId>kie-maven-plugin</artifactId>
-        <version>7.67.2.Final-redhat-00003</version>
+        <version>7.67.0.Final-redhat-00017</version>
         <extensions>true</extensions>
       </plugin>
     </plugins>
