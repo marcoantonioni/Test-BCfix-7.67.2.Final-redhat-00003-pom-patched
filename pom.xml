@@ -7,7 +7,7 @@
   <version>1.0.0-SNAPSHOT</version>
   <packaging>kjar</packaging>
   <name>Test-BCfix-7.67.2.Final-redhat-00003</name>
-  <description> 7.67.2.Final-redhat-00003</description>
+  <description>7.67.2.Final-redhat-00003</description>
   <dependencies>
     <dependency>
       <groupId>org.kie</groupId>
